@@ -1,0 +1,15 @@
+<html>
+  
+    <header>
+     <center> <h1> <p class="hello">Hello App
+      </p></h1></center>
+    </header>
+       <%=yield%>
+
+
+
+
+
+
+
+</html>
